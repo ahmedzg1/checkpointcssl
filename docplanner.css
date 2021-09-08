@@ -1,0 +1,214 @@
+li {
+  display: inline;
+}
+li {
+  float: right;
+margin-right: 25px;
+}
+
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #ffffff;
+}
+ul {
+  background-color: #dddddd;
+}
+h1{
+  
+    margin-left: 200px;  
+    margin-top: 80px;
+}
+body{
+  width: 90%;
+margin:0 auto ;
+}
+
+h1{
+  color: rgb(0, 255, 213);
+}
+
+.pp{
+
+margin-left: 50px;
+
+}
+#parag{
+  display: flex;
+ padding-left: 50px;
+color: #7e7e7e;
+font-size:large ;
+}
+
+
+#leftbox{
+float: left;
+background: rgb(0, 255, 213);
+width: 25%; ;
+height: 300px; ;
+}
+#leftbox{
+
+margin-left: 50px;
+margin-top: 100px;
+}
+
+
+#middlebox{
+float:left;
+background: rgb(0, 68, 255);
+width:25% ;
+height: 300px; ;
+}
+#middlebox{
+
+margin-left: 15px;
+margin-top: 100px;
+}
+#rightbox{
+float: right;
+background: rgb(12, 12, 12);
+width: 25%;
+height:300px ;
+}
+#rightbox{
+  margin-right: 220px;
+  margin-top: 100px;
+}
+
+
+h3{
+color: blanchedalmond;
+}
+#middlebox,#rightbox,#leftbox  {
+color: #dddddd;
+}
+h2:before {
+content: 'Docplanner';
+color: #00ffdd;
+
+}
+h2:after {
+content: 'group';
+color: #979393;
+
+}
+#navbar{
+  margin-left: 30px;
+}
+body{
+  margin-left: 120px;
+}
+h4{
+  margin-left: 50px;
+color: #00ffdd;
+}
+label {
+  font-family: sans-serif;
+  font-size: 1rem;
+  padding-right: 10px;
+}
+
+.select {
+  font-size: .9rem;
+  padding: 2px 5px;
+}
+#for doctor{
+  font-size: .9rem;
+  padding: 2px 5px;
+}
+
+span{
+  font-size: 30px;
+
+}
+
+
+
+h5{
+  font-size: xx-large;
+color: rgb(81, 176, 240);
+}
+.pagedeux{
+  background-color: rgb(165, 236, 227);
+  
+}
+
+
+
+
+.image{
+  width: 30px;
+margin-left: 500px;
+display: inline-block;
+}
+h6{
+  font-size: xx-large;
+color: rgb(0, 110, 255);
+}
+#pagedeux{
+  background-color: aquamarine;
+}
+#container {
+  text-align: center;
+  max-width: 450px;
+  margin: 0 auto;
+}
+.block {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  background: #00CC99;
+}
+.photo{
+  width: 50px;
+height: 50px;
+background-color: rgb(158, 236, 210);
+}
+#pagetrois{
+  text-align: center;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-rows: 200px 200px;
+  grid-gap: 40px;
+}
+
+.flex-container {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+}
+
+.flex-container > div {
+  background-color: #fffdfd;
+  margin: 30px;
+  padding: 30px;
+  font-size: 20px;
+}
+.button {
+  background-color: #4cacaf;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+h3{
+  color: black;
+font-size: xx-large;
+padding-left:110px ;
+}
+footer{
+  
+
+    text-align: center;
+  font-size: small;  
+    
+}
